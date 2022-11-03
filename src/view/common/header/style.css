@@ -1,0 +1,54 @@
+/*
+*
+* style.css
+* @author - Mazeen
+* @date - 1 November, 2022
+**/
+header {
+    background-color: #18181c;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+.logo-text {
+    font-size: 50px;
+    margin: 0;
+    font-family: 'Fasthand', cursive;
+}
+.logo-text strong {
+    font-size: 50px;
+    margin: 0;
+    font-family: 'Fasthand', cursive;
+    color: #f50136;
+}
+.nav-list {
+    margin: 0;
+    margin-top: 10px;
+    padding: 0;
+    list-style-type: none;
+}
+.nav-list li {
+    display: inline-block;
+    padding: 20px 12px!important;
+    font-size: 14px;
+    letter-spacing: 1px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+.nav-list li a {
+    text-decoration: none;
+    color: #fff;
+}
+.nav-list li a i {
+    font-size: 24px;
+}
+.nav-list li a:hover {
+    color: #f50136;
+    transition: 0.4s;
+}
+.cell-477w {
+    width: 477px;
+}
+.t-right {
+    text-align: right;
+}

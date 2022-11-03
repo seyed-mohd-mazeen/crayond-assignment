@@ -1,0 +1,77 @@
+/*
+*
+* style.css
+* @author - Mazeen
+* @date - 1 November, 2022
+**/
+.speaker {
+    background-color: #fff;
+    padding: 50px 0;
+}
+.cover {
+    overflow: hidden;
+    height: 330px;
+}
+.speaker-img {
+    height: inherit;
+    background-size: 100%;
+    transition: all 0.5s linear;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+}
+.speaker-img:hover {
+    transition: all 0.5s linear;
+    background-size: 110%;
+    cursor: pointer;
+}
+.speaker1 {
+    background-image: url('../../assets/speaker1.jpg');
+}
+.speaker2 {
+    background-image: url('../../assets/speaker2.jpg');
+}
+.speaker3 {
+    background-image: url('../../assets/speaker3.jpg');
+}
+.speaker4 {
+    background-image: url('../../assets/speaker4.jpg');
+}
+.speaker5 {
+    background-image: url('../../assets/speaker5.jpg');
+}
+.speaker6 {
+    background-image: url('../../assets/speaker6.jpg');
+}
+.speaker7 {
+    background-image: url('../../assets/speaker7.jpg');
+}
+.speaker8 {
+    background-image: url('../../assets/speaker8.jpg');
+}
+.speaker-info {
+    background-color: #18181c;
+    padding: 10px 30px;
+    position: absolute;
+    display: inline-block;
+    bottom: 25px;
+    left: 0;
+    min-width: 120px;
+}
+.name {
+    margin: 0;
+    margin-bottom: 4px;
+    color: #f50136;
+    font-size: 18px;
+}
+.speaker-info p {
+    margin: 0;
+}
+.grid-4 {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+.ml-100 {
+    margin-left: 100px;
+}

@@ -1,0 +1,20 @@
+[
+{
+    "title": "Early Bird",
+    "subtitle": "For The Fast Ones",
+    "price": "65$",
+    "isRecommended": true
+},
+{
+    "title": "Start up",
+    "subtitle": "For The Begginers",
+    "price": "85$",
+    "isRecommended": false
+},
+{
+    "title": "Corporate",
+    "subtitle": "For The Business",
+    "price": "95$",
+    "isRecommended": false
+}
+]

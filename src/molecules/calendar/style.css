@@ -1,0 +1,80 @@
+/*
+*
+* style.css
+* @author - Mazeen
+* @date - 1 November, 2022
+**/
+.calendar-title {
+    vertical-align: bottom;
+    border: 0;
+    font-size: 20px;
+    text-transform: capitalize;
+    font-weight: 600;
+    margin: 10px;
+}
+.t-left {
+    text-align: left;
+}
+.bg-red {
+    background-color: #f50136;
+}
+.event-table i {
+    margin-right: 10px;
+}
+.event-table {
+    background-color: #f0f2f6;
+    padding-bottom: 5px;
+}
+.event-table img {
+    border-radius: 10px;
+    margin-left: 20px;
+    max-width: 100px;
+}
+.mb-30 {
+    margin-bottom: 30px;
+}
+.mtb-40 {
+    margin: 40px 0 20px 0;
+}
+.cell-130w {
+    width: 130px;
+}
+.event-table p {
+    margin: 0;
+}
+.event-table label {
+    font-size: 14px;
+    font-family: "Montserrat",sans-serif;
+    margin: 0 0 15px;
+    line-height: 24px;
+    font-weight: 400;
+    color: #838383;
+}
+.event-table h5 {
+    color: #000;
+    font-size: 18px;
+    margin: 0;
+}
+.event-table h6 {
+    color: #000;
+    font-size: 14px;
+    margin: 10px 0;
+}
+.event-table a {
+    color: #f50136;
+    font-weight: 600;
+    font-size: 15px;
+}
+.table-date {
+    font-weight: 600;
+    font-size: 30px;
+    color: #000;
+}
+.table-day {
+    font-weight: 400;
+    font-size: 14px;
+    color: #000;
+}
+.a-center {
+    align-items: center;
+}

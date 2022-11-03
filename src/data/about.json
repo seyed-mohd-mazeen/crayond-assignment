@@ -1,0 +1,22 @@
+[
+{
+    "title":"9 Speakers",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In rhoncus massa nec graviante.",
+    "icon" : "fa-solid fa-microphone"
+},
+{
+    "title":"8 Hours Marathon",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In rhoncus massa nec graviante.",
+    "icon" : "fa-solid fa-rocket"
+},
+{
+    "title":"Live Broadcast",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In rhoncus massa nec graviante.",
+    "icon" : "fa-solid fa-bullhorn"
+},
+{
+    "title":"Early Bird",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In rhoncus massa nec graviante.",
+    "icon" : "fa-regular fa-clock"
+}
+]

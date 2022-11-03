@@ -1,0 +1,59 @@
+/*
+*
+* style.css
+* @author - Mazeen
+* @date - 1 November, 2022
+**/
+.slider-number {
+    max-width: 200px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 60px;
+    font-size: 20px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    position: relative;
+    bottom: 130px;
+}
+.slider-number span {
+    color: #000;
+    padding: 5px;
+}
+.active-number {
+    border: 2px solid #f50136;
+    border-radius: 25%;
+}
+.venue-box {
+    display: flex;
+}
+.venue-box i {
+    font-size: 56px;
+    color: #f50136;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+.venue-box h5 {
+    margin-bottom: 3px;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin-top: 6px;
+    font-size: 18px;
+    color: #000;
+}
+.venue-box p {
+    margin: 0;
+    margin-top: 10px;
+    font-weight: 500;
+    color: #838383;
+    font-size: 14px;
+}
+.pblt-100 {
+    padding-bottom: 100px;
+    padding-left: 100px;
+    padding-top: 0;
+}
+.mw-1000 {
+    max-width: 1000px;
+    margin: 0 auto;
+  } 

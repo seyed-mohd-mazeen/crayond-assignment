@@ -1,0 +1,29 @@
+/*
+*
+* style.css
+* @author - Mazeen
+* @date - 1 November, 2022
+**/
+footer {
+    padding: 20px 0;
+    background-color: #080113;
+}
+footer p {
+    margin: 0;
+}
+.footer-list {
+    margin: 0;
+    padding: 0;
+}
+.footer-list li {
+    display: inline-block;
+    margin-left: 20px;
+}
+.footer-list li a {
+    color: #838383;
+    text-decoration: none;
+}
+.footer-list li a:hover {
+    color: #fff;
+    transition: 0.4s;
+}

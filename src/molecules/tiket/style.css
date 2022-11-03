@@ -1,0 +1,25 @@
+/*
+*
+* style.css
+* @author - Mazeen
+* @date - 1 November, 2022
+**/
+.tiket {
+    background-image: url('../../assets/tiket.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px 0;
+}
+.t-white {
+    color: #fff;
+}
+.t-white .title {
+    color: #fff;
+}
+.cell-300w {
+    width: 300px;
+}
+.h-right {
+    display: inline-flex;
+    justify-content: flex-end;
+}

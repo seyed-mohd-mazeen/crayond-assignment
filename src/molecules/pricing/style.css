@@ -1,0 +1,73 @@
+/*
+*
+* style.css
+* @author - Mazeen
+* @date - 1 November, 2022
+**/
+.price-card {
+    background-color: #f0f2f6;
+    margin-right: 30px;
+    padding: 50px 20px;
+    min-height: 500px;
+    position: relative;
+    box-sizing: border-box;
+}
+.active-card {
+    background-color: #fff;
+    box-shadow: 0 10px 30px rgb(0 0 0 / 15%);
+    padding: 32px 20px;
+}
+.price-card:hover {
+    background-color: #fff;
+    box-shadow: 0 10px 30px rgb(0 0 0 / 15%);
+    transition: 0.4s;
+}
+.highlighted-box {
+    background-color: #f50136;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 12px;
+    padding: 10px 15px;
+    color: #fff;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 30%;
+}
+.price-header {
+    font-size: 24px;
+    margin-bottom: 5px;
+    font-weight: 600;
+    color: #000;
+}
+.price-subheader {
+    font-size: 14px;
+    text-transform: capitalize;
+    color: #838383;
+    font-weight: 400;
+    margin: 0;
+}
+.price-value {
+    padding: 15px 0;
+    text-transform: capitalize;
+    color: #18181c;
+    font-size: 48px;
+    font-weight: 700;
+    margin: 0;
+}
+.price-value sup {
+    font-size: 38px;
+    font-weight: 300;
+}
+.price-feature-list {
+    margin: 0;
+    padding: 0;
+}
+.price-feature-list li {
+    color: #838383;
+    list-style-type: none;
+    margin-bottom: 20px;
+}
+.mt-30 {
+    margin-top: 30px;
+}

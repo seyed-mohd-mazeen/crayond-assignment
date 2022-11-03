@@ -1,5 +1,13 @@
-.App {
+.t-center {
   text-align: center;
+}
+.row {
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+}
+.cell-1 {
+  flex: 1;
 }
 
 .App-logo {

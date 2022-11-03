@@ -1,0 +1,33 @@
+/*
+*
+* style.css
+* @author - Mazeen
+* @date - 1 November, 2022
+**/
+.timer {
+    background-image: url('../../assets/timer.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px 0;
+}
+.timer h4 {
+    font-size: 24px;
+    text-shadow: 2px 2px #000;
+}
+.timer-box {
+    background-color: #f44336;
+    max-width: 120px;
+    margin: 20px;
+    padding: 25px;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+.timer-box h6 {
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    font-size: 48px;
+    font-weight: 600;
+    text-align: center;
+    line-height: 1.2;
+}
